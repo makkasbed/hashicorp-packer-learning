@@ -3,4 +3,4 @@
 .terraform/
 .terraform.lock.hcl
 *.tfstate*
-terraform.tfstate.backup
+aws/aws-vpc-packer/terraform.tfstate.backup
