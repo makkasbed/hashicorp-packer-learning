@@ -9,12 +9,12 @@ packer {
 
 variable "vpc_id" {
   type    = string
-  default = "vpc-96243845"
+  default = "vpc-08f38749665f55487"
 }
 
 variable "subnet_id" {
   type    = string
-  default = "subnet-1c5d5c68"
+  default = "subnet-0fe1aed7497ffca06"
 }
 
 source "amazon-ebs" "amazon-linux-1" {

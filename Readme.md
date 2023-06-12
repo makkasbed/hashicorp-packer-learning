@@ -20,3 +20,6 @@ export AWS_ACCESS_KEY_ID="<your-access-key-id>"
 export AWS_SECRET_ACCESS_KEY="<your-secret-access-key>"
 ```
 
+## VPC
+For VPC ID not available, kindly run the terraform code in **aws-vpc-packer** folder, It would output the VPC ID and subnet IDs needed for the build.
+
